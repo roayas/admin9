@@ -1,0 +1,40 @@
+.divv{background: url('https://www.americanacademy.de/wp-content/uploads/2018/12/BJ32_Ball.jpg');
+background-size: cover;
+margin:10%;
+/* opacity: .6; */
+}
+.error-msg{
+    font-size:25px;
+    width:100%;
+    color:red;
+}
+
+.login-wrapper{width: 60%;
+    margin-left: 18%;
+    background: rgba(255, 255, 255, 0.695);
+font-weight: bold;}
+
+.formm{width: 70%;
+display: flex;
+flex-direction: column;
+margin-left: 20%;
+}
+
+.admin-btn{background: goldenrod;
+border:2px rgb(0, 0, 0) solid;
+color:#000;
+font-size: 15px;
+width: 66%;
+}
+.admin-btn:hover,
+.admin-btn:visited,
+.admin-btn:focus,
+.admin-btn:active
+{background: rgba(218, 165, 32, 0.804);}
+
+
+.lbl{margin-bottom: -8%; font-size: 30px;}
+.inp{margin-top: 0;
+border-radius: 10px;
+font-size: 25px;
+width: 80%;}
